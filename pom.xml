@@ -48,11 +48,11 @@
             <scope>test</scope>
         </dependency>
 
-        <!--<dependency>
+        <dependency>
             <groupId>io.lettuce</groupId>
             <artifactId>lettuce-core</artifactId>
-            <version>5.1.10.RELEASE</version>
-        </dependency>-->
+            <version>5.3.5.RELEASE</version>
+        </dependency>
     </dependencies>
 
     <build>
